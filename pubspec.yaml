@@ -1,25 +1,19 @@
-name: flutte
+name: flutter_ttt
 description: A new Flutter application.
+
 version: 1.0.0+1
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: '>=2.0.0-dev.68.0 <3.0.0'
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
-  english_words: ^3.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
 flutter:
   uses-material-design: true
   assets:
-  - assets/images/avatar2.png
-  - assets/images/nav_close.png
-  - assets/images/publish_chat_box.png
-  - assets/images/publish_work_line.png
-  - assets/images/publish_work_sign.png
-  - assets/images/share_qq.png
-  - assets/images/share_wechat.png
-  - assets/images/index_banner_bg.png
-  - assets/images/imgone.jpg
+  - assets/images/

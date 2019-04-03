@@ -1,4 +1,4 @@
-package com.example.flutte;
+package com.example.flutter_ttt;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
